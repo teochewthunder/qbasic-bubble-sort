@@ -11,8 +11,6 @@ DIM col, row
 col = 2
 row = 2
 
-LOCATE row, col
-
 DIM current_fc, current_bc
 current_fc = 15
 current_bc = 4
