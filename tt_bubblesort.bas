@@ -61,8 +61,6 @@ WHILE sorted = 0
         PRINT " with ";
         PRINT sortlist(currentpos);
         PRINT "...";
-    ELSE
-        CLS
     END IF
 
     LOCATE row, col
